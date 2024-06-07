@@ -1,6 +1,6 @@
 # Ignore build output
 /build
-/managed_components
+# /managed_components
 
 # Ignore system-specific files
 sdkconfig
