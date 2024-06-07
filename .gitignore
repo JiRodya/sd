@@ -1,20 +1,20 @@
-# # Ignore build output
-# /build
+# Ignore build output
+/build
 
-# # Ignore system-specific files
-# sdkconfig
-# sdkconfig.old
-# CMakeFiles
-# CMakeCache.txt
-# *.bin
-# *.elf
-# *.lst
-# *.map
-# *.partition*
-# .devcontainer
+# Ignore system-specific files
+sdkconfig
+sdkconfig.old
+CMakeFiles
+CMakeCache.txt
+*.bin
+*.elf
+*.lst
+*.map
+*.partition*
+.devcontainer
 
-# # Ignore IDE and editor files
-# .vscode
-# .idea
-# *.sublime-project
-# *.sublime-workspace
+# Ignore IDE and editor files
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
